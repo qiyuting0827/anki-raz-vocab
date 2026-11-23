@@ -1,0 +1,526 @@
+{
+  "cardId": "62d65fa0acdacScy",
+  "title": "RAZ全套AA-Z2单词美音版 趣味图片+真人发音 背诵听写双模式",
+  "subtitle": "RAZ是Reading A-Z的简称，是目前世界上广为流行的一套英文绘本阅读资料。我们花费大量时间精心整理了全套的单词制作成了anki牌组，采取趣味图片+真人原声发音的形式（单词全都带有发音，例句大部",
+  "price": 12000,
+  "cardCount": 12918,
+  "totalWords": 6500,
+  "levelCounts": {
+    "AA": 430,
+    "A": 325,
+    "B": 220,
+    "C": 221,
+    "D": 210,
+    "E": 203,
+    "F": 230,
+    "G": 218,
+    "H": 213,
+    "I": 206,
+    "J": 229,
+    "K": 184,
+    "L": 188,
+    "M": 189,
+    "N": 177,
+    "O": 224,
+    "P": 163,
+    "Q": 259,
+    "R": 244,
+    "S": 246,
+    "T": 215,
+    "U": 187,
+    "V": 203,
+    "W": 154,
+    "X": 304,
+    "Y": 233,
+    "Z": 194,
+    "Z1": 170,
+    "Z2": 220
+  },
+  "levelOrder": [
+    "AA",
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z",
+    "Z1",
+    "Z2"
+  ],
+  "decks": [
+    {
+      "name": "RAZ AA-Z2 01.背诵版 - 美音",
+      "deckId": null,
+      "totalCard": 6459,
+      "children": [
+        {
+          "key": "0AA",
+          "label": "AA",
+          "deckId": 1658115966188,
+          "count": 430,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::0AA"
+        },
+        {
+          "key": "A",
+          "label": "A",
+          "deckId": 1658115966198,
+          "count": 325,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::A"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "deckId": 1658115966209,
+          "count": 220,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::B"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "deckId": 1658115966220,
+          "count": 221,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::C"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "deckId": 1658115966232,
+          "count": 210,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::D"
+        },
+        {
+          "key": "E",
+          "label": "E",
+          "deckId": 1658115966244,
+          "count": 203,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::E"
+        },
+        {
+          "key": "F",
+          "label": "F",
+          "deckId": 1658115966254,
+          "count": 230,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::F"
+        },
+        {
+          "key": "G",
+          "label": "G",
+          "deckId": 1658115966266,
+          "count": 218,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::G"
+        },
+        {
+          "key": "H",
+          "label": "H",
+          "deckId": 1658115966277,
+          "count": 213,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::H"
+        },
+        {
+          "key": "I",
+          "label": "I",
+          "deckId": 1658115966287,
+          "count": 206,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::I"
+        },
+        {
+          "key": "J",
+          "label": "J",
+          "deckId": 1658115966298,
+          "count": 229,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::J"
+        },
+        {
+          "key": "K",
+          "label": "K",
+          "deckId": 1658115966310,
+          "count": 184,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::K"
+        },
+        {
+          "key": "L",
+          "label": "L",
+          "deckId": 1658115966320,
+          "count": 188,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::L"
+        },
+        {
+          "key": "M",
+          "label": "M",
+          "deckId": 1658115966330,
+          "count": 189,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::M"
+        },
+        {
+          "key": "N",
+          "label": "N",
+          "deckId": 1658115966341,
+          "count": 177,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::N"
+        },
+        {
+          "key": "O",
+          "label": "O",
+          "deckId": 1658115966353,
+          "count": 224,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::O"
+        },
+        {
+          "key": "P",
+          "label": "P",
+          "deckId": 1658115966362,
+          "count": 163,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::P"
+        },
+        {
+          "key": "Q",
+          "label": "Q",
+          "deckId": 1658115966372,
+          "count": 259,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::Q"
+        },
+        {
+          "key": "R",
+          "label": "R",
+          "deckId": 1658115966384,
+          "count": 244,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::R"
+        },
+        {
+          "key": "S",
+          "label": "S",
+          "deckId": 1658115966394,
+          "count": 246,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::S"
+        },
+        {
+          "key": "T",
+          "label": "T",
+          "deckId": 1658115966405,
+          "count": 215,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::T"
+        },
+        {
+          "key": "U",
+          "label": "U",
+          "deckId": 1658115966417,
+          "count": 187,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::U"
+        },
+        {
+          "key": "V",
+          "label": "V",
+          "deckId": 1658115966427,
+          "count": 203,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::V"
+        },
+        {
+          "key": "W",
+          "label": "W",
+          "deckId": 1658115966437,
+          "count": 154,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::W"
+        },
+        {
+          "key": "X",
+          "label": "X",
+          "deckId": 1658115966447,
+          "count": 304,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::X"
+        },
+        {
+          "key": "Y",
+          "label": "Y",
+          "deckId": 1658115966461,
+          "count": 233,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::Y"
+        },
+        {
+          "key": "Z",
+          "label": "Z",
+          "deckId": 1658115966473,
+          "count": 194,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::Z"
+        },
+        {
+          "key": "Z1",
+          "label": "Z1",
+          "deckId": 1658115966484,
+          "count": 170,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::Z1"
+        },
+        {
+          "key": "Z2",
+          "label": "Z2",
+          "deckId": 1658115966494,
+          "count": 220,
+          "name": "RAZ AA-Z2 01.背诵版 - 美音::Z2"
+        }
+      ]
+    },
+    {
+      "name": "RAZ AA-Z2 02.听写版 - 美音",
+      "deckId": null,
+      "totalCard": 12918,
+      "children": [
+        {
+          "key": "0AA",
+          "label": "AA",
+          "deckId": 1658110776370,
+          "count": 430,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::0AA"
+        },
+        {
+          "key": "A",
+          "label": "A",
+          "deckId": 1658110776380,
+          "count": 325,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::A"
+        },
+        {
+          "key": "B",
+          "label": "B",
+          "deckId": 1658110776394,
+          "count": 220,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::B"
+        },
+        {
+          "key": "C",
+          "label": "C",
+          "deckId": 1658110776407,
+          "count": 221,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::C"
+        },
+        {
+          "key": "D",
+          "label": "D",
+          "deckId": 1658110776420,
+          "count": 210,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::D"
+        },
+        {
+          "key": "E",
+          "label": "E",
+          "deckId": 1658110776431,
+          "count": 203,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::E"
+        },
+        {
+          "key": "F",
+          "label": "F",
+          "deckId": 1658110776443,
+          "count": 230,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::F"
+        },
+        {
+          "key": "G",
+          "label": "G",
+          "deckId": 1658110776456,
+          "count": 218,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::G"
+        },
+        {
+          "key": "H",
+          "label": "H",
+          "deckId": 1658110776469,
+          "count": 213,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::H"
+        },
+        {
+          "key": "I",
+          "label": "I",
+          "deckId": 1658110776478,
+          "count": 206,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::I"
+        },
+        {
+          "key": "J",
+          "label": "J",
+          "deckId": 1658110776491,
+          "count": 229,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::J"
+        },
+        {
+          "key": "K",
+          "label": "K",
+          "deckId": 1658110776503,
+          "count": 184,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::K"
+        },
+        {
+          "key": "L",
+          "label": "L",
+          "deckId": 1658110776514,
+          "count": 188,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::L"
+        },
+        {
+          "key": "M",
+          "label": "M",
+          "deckId": 1658110776527,
+          "count": 189,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::M"
+        },
+        {
+          "key": "N",
+          "label": "N",
+          "deckId": 1658110776538,
+          "count": 177,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::N"
+        },
+        {
+          "key": "O",
+          "label": "O",
+          "deckId": 1658110776547,
+          "count": 224,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::O"
+        },
+        {
+          "key": "P",
+          "label": "P",
+          "deckId": 1658110776560,
+          "count": 163,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::P"
+        },
+        {
+          "key": "Q",
+          "label": "Q",
+          "deckId": 1658110776573,
+          "count": 259,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::Q"
+        },
+        {
+          "key": "R",
+          "label": "R",
+          "deckId": 1658110776585,
+          "count": 244,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::R"
+        },
+        {
+          "key": "S",
+          "label": "S",
+          "deckId": 1658110776596,
+          "count": 246,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::S"
+        },
+        {
+          "key": "T",
+          "label": "T",
+          "deckId": 1658110776608,
+          "count": 215,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::T"
+        },
+        {
+          "key": "U",
+          "label": "U",
+          "deckId": 1658110776620,
+          "count": 187,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::U"
+        },
+        {
+          "key": "V",
+          "label": "V",
+          "deckId": 1658110776630,
+          "count": 203,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::V"
+        },
+        {
+          "key": "W",
+          "label": "W",
+          "deckId": 1658110776641,
+          "count": 154,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::W"
+        },
+        {
+          "key": "X",
+          "label": "X",
+          "deckId": 1658110776652,
+          "count": 304,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::X"
+        },
+        {
+          "key": "Y",
+          "label": "Y",
+          "deckId": 1658110776670,
+          "count": 233,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::Y"
+        },
+        {
+          "key": "Z",
+          "label": "Z",
+          "deckId": 1658110776682,
+          "count": 194,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::Z"
+        },
+        {
+          "key": "Z1",
+          "label": "Z1",
+          "deckId": 1658110776693,
+          "count": 170,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::Z1"
+        },
+        {
+          "key": "Z2",
+          "label": "Z2",
+          "deckId": 1658110776708,
+          "count": 220,
+          "name": "RAZ AA-Z2 02.听写版 - 美音::Z2"
+        }
+      ]
+    }
+  ],
+  "model": {
+    "name": "tank562-RAZ",
+    "fields": [
+      "grade",
+      "个人笔记",
+      "word",
+      "chn",
+      "symbol",
+      "photo",
+      "photosen",
+      "ssound",
+      "audio",
+      "photo2",
+      "Dictionary"
+    ],
+    "templates": [
+      {
+        "name": "卡片1",
+        "qfmt": "<!-- 正面单词背诵模式 -->\n\n<div class=section1>\n\n<!-- 显示单词 -->\n<div class=word>{{word}}</div>\n\n<!-- 显示音标 -->\n{{#symbol}}<div class=symbol>{{symbol}}</div>{{/symbol}}\n\n<!-- 单词发音。如关闭，则删除下面一行-->\n<div class=audio1>{{audio}}</div>\n\n</div>\n\n<!--微信:tank562 / 淘宝店:anki单词-->",
+        "afmt": "<div class=section1>\n\n<!-- 显示单词 -->\n<div class=word>{{word}}</div>\n\n<!-- 显示音标 -->\n{{#symbol}}<div class=symbol>{{symbol}}</div>{{/symbol}}\n\n<!-- 单词发音。如关闭，则删除下面一行-->\n<div class=audio2>{{audio}}</div>\n\n</div>\n\n\n<div class=section2>\n\n<!-- 汉语-->\n<div id=chn class=chn>{{chn}}</div>\n\n<!-- 个人笔记-->\n{{#个人笔记}}<div class=extra7>{{个人笔记}}</div>{{/个人笔记}}\n\n</div>\n\n{{#photo}}<div class=section3>\n\n<!-- 显示图片-->\n<div class=photo>{{photo}}</div>\n\n<!-- 显示图片的例句-->\n{{#photosen}}<div id=phosen class=phosen>{{photosen}}</div>{{/photosen}}\n\n<!-- 例句发音。如关闭，则删除下面一行-->\n{{#ssound}}<div class=ssound1>{{ssound}}</div>{{/ssound}}\n\n</div>{{/photo}}\n\n<!-- 分类图集-->\n{{#photo2}}<div class=photo2>{{photo2}}</div>{{/photo2}}\n\n<!-- 显示词典释义-->\n{{#Dictionary}}<div class=dictionary>{{hint:Dictionary}}</div>{{/Dictionary}}\n\n<!--微信:tank562 / 淘宝店:anki单词-->\n\n<script type=\"text/javascript\">\nvar colorMap = {\n    'n.':'#86c440',\n    'a.':'#f8b002',\n    'adj.':'#727272',\n    'ad.':'#684b9d',\n    'adv.':'#684b9d',\n    'v.':'#479cdf',\n    'vi.':'#3e480d',\n    'vt.':'#3e480d',\n    'prep.':'#04B7C9',\n    'conj.':'#04B7C9',\n    'pron.':'#04B7C9',\n    'art.':'#04B7C9',\n    'num.':'#04B7C9',\n    'int.':'#04B7C9',\n    'interj.':'#04B7C9',\n    'modal.':'#04B7C9',\n    'aux.':'#04B7C9',\n    'pl.':'#D111D3',\n    'abbr.':'#D111D3',\n  };\n  [].forEach.call(document.querySelectorAll('#chn'), function(div) {\n  div.innerHTML = div.innerHTML\n  .replace(/\\b[a-z]+\\./g, function(symbol) {\n    if(colorMap[symbol]) {\n      return '<a style=\"background-color:' + colorMap[symbol] + ';border-radius: 4px; color:white; padding:0 5px;margin-right:5px\">'+\n      symbol + '</a>';\n    }else{\n      return symbol;\n    }\n  });\n });\n</script>\n\n\n\n<script src=\"https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js\"></script>\n<script type=\"text/javascript\">\n    function highlight(s, id) {\n        if(s.length == 0) {\n            var obj = document.getElementById(id);\n            var t = obj.innerHTML.replace(/<span\\s+class=.?highlight.?>([^<>]*)<\\/span>/gi, \"$1\");\n            obj.innerHTML = t;\n            return false;\n        }\n        s = encode(s);\n        var obj = document.getElementById(id);\n        var t = obj.innerHTML.replace(/<span\\s+class=.?highlight.?>([^<>]*)<\\/span>/gi, \"$1\");\n        obj.innerHTML = t;\n        var cnt = loopSearch(s, obj);\n        t = obj.innerHTML\n        var r = /{searchHL}(({(?!\\/searchHL})|[^{])*){\\/searchHL}/g\n        t = t.replace(r, \"<span class='highlight'>$1</span>\");\n        obj.innerHTML = t;\n        function encode(s) {\n            return s.replace(/&/g, \"&\").replace(/</g, \"<\").replace(/>/g, \">\").replace(/([\\\\\\.\\*\\[\\]\\(\\)\\$\\^])/g, \"\\\\$1\");\n        }\n        function decode(s) {\n            return s.replace(/\\\\([\\\\\\.\\*\\[\\]\\(\\)\\$\\^])/g, \"$1\").replace(/>/g, \">\").replace(/</g, \"<\").replace(/&/g, \"&\");\n        }\n        function loopSearch(s, obj) {\n            var cnt = 0;\n            if(obj.nodeType == 3) {\n                cnt = replace(s, obj);\n                return cnt;\n            }\n            for(var i = 0, c; c = obj.childNodes[i]; i++) {\n                if(!c.className || c.className != \"highlight\") {\n                    cnt += loopSearch(s, c);\n                }\n            }\n            return cnt;\n        }\n        function replace(s, dest) {\n            var r = new RegExp(s, \"g\");\n            var tm = null;\n            var t = dest.nodeValue;\n            var cnt = 0;\n            if(tm = t.match(r)) {\n                cnt = tm.length;\n                t = t.replace(r, \"{searchHL}\" + decode(s) + \"{/searchHL}\")\n                dest.nodeValue = t;\n            }\n            return cnt;\n        }\n    }\n    highlight('{{word}}',\"phosen\");\n</script>"
+      },
+      {
+        "name": "卡片 2",
+        "qfmt": "<!-- 显示单词输入框-->\n<div class=word2>{{type:word}}</div>\n\n<!-- 显示汉语-->\n<div class=section2>\n<div id=chn class=chn>{{chn}}</div>\n\n<!--微信:tank562 / 淘宝店:anki单词-->\n\n\n<script type=\"text/javascript\">\nvar colorMap = {\n    'n.':'#86c440',\n    'a.':'#f8b002',\n    'adj.':'#727272',\n    'ad.':'#684b9d',\n    'adv.':'#684b9d',\n    'v.':'#479cdf',\n    'vi.':'#3e480d',\n    'vt.':'#3e480d',\n    'prep.':'#04B7C9',\n    'conj.':'#04B7C9',\n    'pron.':'#04B7C9',\n    'art.':'#04B7C9',\n    'num.':'#04B7C9',\n    'int.':'#04B7C9',\n    'interj.':'#04B7C9',\n    'modal.':'#04B7C9',\n    'aux.':'#04B7C9',\n    'pl.':'#D111D3',\n    'abbr.':'#D111D3',\n  };\n  [].forEach.call(document.querySelectorAll('#chn'), function(div) {\n  div.innerHTML = div.innerHTML\n  .replace(/\\b[a-z]+\\./g, function(symbol) {\n    if(colorMap[symbol]) {\n      return '<a style=\"background-color:' + colorMap[symbol] + ';border-radius: 4px; color:white; padding:0 5px;margin-right:5px\">'+\n      symbol + '</a>';\n    }else{\n      return symbol;\n    }\n  });\n });\n</script>\n\n\n\n<script src=\"https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js\"></script>\n<script type=\"text/javascript\">\n    function highlight(s, id) {\n        if(s.length == 0) {\n            var obj = document.getElementById(id);\n            var t = obj.innerHTML.replace(/<span\\s+class=.?highlight.?>([^<>]*)<\\/span>/gi, \"$1\");\n            obj.innerHTML = t;\n            return false;\n        }\n        s = encode(s);\n        var obj = document.getElementById(id);\n        var t = obj.innerHTML.replace(/<span\\s+class=.?highlight.?>([^<>]*)<\\/span>/gi, \"$1\");\n        obj.innerHTML = t;\n        var cnt = loopSearch(s, obj);\n        t = obj.innerHTML\n        var r = /{searchHL}(({(?!\\/searchHL})|[^{])*){\\/searchHL}/g\n        t = t.replace(r, \"<span class='highlight'>$1</span>\");\n        obj.innerHTML = t;\n        function encode(s) {\n            return s.replace(/&/g, \"&\").replace(/</g, \"<\").replace(/>/g, \">\").replace(/([\\\\\\.\\*\\[\\]\\(\\)\\$\\^])/g, \"\\\\$1\");\n        }\n        function decode(s) {\n            return s.replace(/\\\\([\\\\\\.\\*\\[\\]\\(\\)\\$\\^])/g, \"$1\").replace(/>/g, \">\").replace(/</g, \"<\").replace(/&/g, \"&\");\n        }\n        function loopSearch(s, obj) {\n            var cnt = 0;\n            if(obj.nodeType == 3) {\n                cnt = replace(s, obj);\n                return cnt;\n            }\n            for(var i = 0, c; c = obj.childNodes[i]; i++) {\n                if(!c.className || c.className != \"highlight\") {\n                    cnt += loopSearch(s, c);\n                }\n            }\n            return cnt;\n        }\n        function replace(s, dest) {\n            var r = new RegExp(s, \"g\");\n            var tm = null;\n            var t = dest.nodeValue;\n            var cnt = 0;\n            if(tm = t.match(r)) {\n                cnt = tm.length;\n                t = t.replace(r, \"{searchHL}\" + decode(s) + \"{/searchHL}\")\n                dest.nodeValue = t;\n            }\n            return cnt;\n        }\n    }\n    highlight('{{word}}',\"phosen\");\n</script>",
+        "afmt": "<div class=section1>\n\n<!-- 显示单词 -->\n<div class=word2>{{type:word}}</div>\n\n<!-- 显示音标 -->\n{{#symbol}}<div class=symbol>{{symbol}}</div>{{/symbol}}\n\n<!-- 单词发音。如关闭，则删除下面一行-->\n<div class=audio2>{{audio}}</div>\n\n</div>\n\n\n<div class=section2>\n\n<!-- 汉语-->\n<div id=chn class=chn>{{chn}}</div>\n\n<!-- 个人笔记-->\n{{#个人笔记}}<div class=extra7>{{个人笔记}}</div>{{/个人笔记}}\n\n</div>\n\n{{#photo}}<div class=section3>\n\n<!-- 显示图片-->\n<div class=photo>{{photo}}</div>\n\n<!-- 显示图片的例句-->\n{{#photosen}}<div id=phosen class=phosen>{{photosen}}</div>{{/photosen}}\n\n<!-- 例句发音。如关闭，则删除下面一行-->\n{{#ssound}}<div class=ssound1>{{ssound}}</div>{{/ssound}}\n\n</div>{{/photo}}\n\n<!-- 分类图集-->\n{{#photo2}}<div class=photo2>{{photo2}}</div>{{/photo2}}\n\n<!-- 显示词典释义-->\n{{#Dictionary}}<div class=dictionary>{{hint:Dictionary}}</div>{{/Dictionary}}\n\n<!--微信:tank562 / 淘宝店:anki单词-->\n\n<script type=\"text/javascript\">\nvar colorMap = {\n    'n.':'#86c440',\n    'a.':'#f8b002',\n    'adj.':'#727272',\n    'ad.':'#684b9d',\n    'adv.':'#684b9d',\n    'v.':'#479cdf',\n    'vi.':'#3e480d',\n    'vt.':'#3e480d',\n    'prep.':'#04B7C9',\n    'conj.':'#04B7C9',\n    'pron.':'#04B7C9',\n    'art.':'#04B7C9',\n    'num.':'#04B7C9',\n    'int.':'#04B7C9',\n    'interj.':'#04B7C9',\n    'modal.':'#04B7C9',\n    'aux.':'#04B7C9',\n    'pl.':'#D111D3',\n    'abbr.':'#D111D3',\n  };\n  [].forEach.call(document.querySelectorAll('#chn'), function(div) {\n  div.innerHTML = div.innerHTML\n  .replace(/\\b[a-z]+\\./g, function(symbol) {\n    if(colorMap[symbol]) {\n      return '<a style=\"background-color:' + colorMap[symbol] + ';border-radius: 4px; color:white; padding:0 5px;margin-right:5px\">'+\n      symbol + '</a>';\n    }else{\n      return symbol;\n    }\n  });\n });\n</script>\n\n\n\n<script src=\"https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js\"></script>\n<script type=\"text/javascript\">\n    function highlight(s, id) {\n        if(s.length == 0) {\n            var obj = document.getElementById(id);\n            var t = obj.innerHTML.replace(/<span\\s+class=.?highlight.?>([^<>]*)<\\/span>/gi, \"$1\");\n            obj.innerHTML = t;\n            return false;\n        }\n        s = encode(s);\n        var obj = document.getElementById(id);\n        var t = obj.innerHTML.replace(/<span\\s+class=.?highlight.?>([^<>]*)<\\/span>/gi, \"$1\");\n        obj.innerHTML = t;\n        var cnt = loopSearch(s, obj);\n        t = obj.innerHTML\n        var r = /{searchHL}(({(?!\\/searchHL})|[^{])*){\\/searchHL}/g\n        t = t.replace(r, \"<span class='highlight'>$1</span>\");\n        obj.innerHTML = t;\n        function encode(s) {\n            return s.replace(/&/g, \"&\").replace(/</g, \"<\").replace(/>/g, \">\").replace(/([\\\\\\.\\*\\[\\]\\(\\)\\$\\^])/g, \"\\\\$1\");\n        }\n        function decode(s) {\n            return s.replace(/\\\\([\\\\\\.\\*\\[\\]\\(\\)\\$\\^])/g, \"$1\").replace(/>/g, \">\").replace(/</g, \"<\").replace(/&/g, \"&\");\n        }\n        function loopSearch(s, obj) {\n            var cnt = 0;\n            if(obj.nodeType == 3) {\n                cnt = replace(s, obj);\n                return cnt;\n            }\n            for(var i = 0, c; c = obj.childNodes[i]; i++) {\n                if(!c.className || c.className != \"highlight\") {\n                    cnt += loopSearch(s, c);\n                }\n            }\n            return cnt;\n        }\n        function replace(s, dest) {\n            var r = new RegExp(s, \"g\");\n            var tm = null;\n            var t = dest.nodeValue;\n            var cnt = 0;\n            if(tm = t.match(r)) {\n                cnt = tm.length;\n                t = t.replace(r, \"{searchHL}\" + decode(s) + \"{/searchHL}\")\n                dest.nodeValue = t;\n            }\n            return cnt;\n        }\n    }\n    highlight('{{word}}',\"phosen\");\n</script>"
+      }
+    ],
+    "css": "\t\t\t/*样式开关*/\n\n/*\"display:\"后添加\"none\"(不含引号)为关闭显示*/\n\n.word {display:}\t\t/*显示正面单词*/\n.symbol {display:}\t\t/*显示正面音标*/\n.audio1 {display:}\t\t/*显示正面单词发音按钮*/\n\n.word1 {display:}\t\t/*显示背面单词*/\n.symbol1 {display:}\t\t/*显示背面音标*/\n.audio2 {display:}\t\t/*显示背面单词发音按钮*/\n.chn {display:}\t\t\t/*显示汉语解释*/\n.extra7 {display:}\t\t/*显示个人笔记区域*/\n.photo {display:}\t\t/*显示图片*/\n.phosen {display:}\t\t/*显示图片例句*/\n.ssound1 {display:}\t\t/*显示图片例句的播放器图标*/\n.photo2 {display:}\t\t/*显示分类图片*/\n\n\n\n/*正面及背面整体*/\n\n.card{\n font-family:Helvetica,Sans-serif,Microsoft Yahei;\n font-size:16px;\n text-align:center;\n color:#222;\n line-height:150%;\n background-color:#eff0f4;}\n.card.night_mode{background:#000000;color:#fff;}\n\n.section1{\n border-radius:13px;\n background-color: #fff;\n position: relative;\n padding:5px;\n margin: 10px 0;\n box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.4),0 0px 0px 1px rgba(0, 0, 0, 0.02);}\n.nightMode .section1{background-color: #1c1c1e;}\n\n.section2{\n border-radius:13px;\n background-color: #f8fdf8;\n position: relative;\n padding:5px;\n margin: 10px 0;\n box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.4),0 0px 0px 1px rgba(0, 0, 0, 0.02);}\n.nightMode .section2{background-color: #1c1c1e;}\n\n.section3{\n border-radius:13px;\n background-color: #fff;\n position: relative;\n padding:5px;\n margin: 10px 0;\n box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.4),0 0px 0px 1px rgba(0, 0, 0, 0.02);}\n.nightMode .section3{background-color: #1c1c1e;}\n\n.unit{margin-top:5px;\n border:0px;\n border-radius: 5px; \n padding: 3px 20px;\n background-color: #99cc00;\n font-size: 15px;\n color:#fff;\n display:inline-block;\n line-height: 120%;}\n.nightMode .unit{ background-color: darkgray;}\n\n.word{\n padding-top:5px;\n font-size:35px;\n color:#ff6600;\n line-height:120%;}\n.nightMode .word{color:#fff;}\n\n.word1{\n padding-top:5px;\n font-size:35px;\n color:#ff6600;\n line-height:120%;\n padding-bottom:5px;}\n.nightMode .word1{color:#fff;}\n\n.word2{\n padding:10px 0;\n font-size:25px;\n color:#ff6600;\n line-height:110%;}\n.nightMode .word2{color:#fff;}\n\n.word3{\n padding:10px 0;\n font-size:20px;\n line-height:110%;}\n.nightMode .word3{color:#fff;}\n\n.symbol{\n font-size: 18px; \n color:#3d7fff;}\n.nightMode .symbol{color:pink;}\n\n.symbol1{\n font-size: 18px; \n color:#3d7fff;}\n.nightMode .symbol1{color:pink;}\n\n.audio1{padding-top:5px;}\n.audio2{padding-top:5px;}\n\n\n/*中文*/\n.chn{padding:10px 0;\n font-size: 20px;\n font-family:Microsoft Yahei;\n line-height:150%;}\n.nightMode .chn {color:#fff;}\n\n\n/*个人笔记*/\n.extra7 {color:#CC0033;\n font-size: 20px;}\n.nightMode .extra7 {color:#00e8ee;}\n\n\n/*微信:tank562 / 淘宝店:anki单词*/\n\n/*图片*/\n.photo {height: auto;\n padding-top:5px;}\n.photo img{\n -webkit-filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.3));\n filter:drop-shadow(1px 1px 1px rgba(0,0,0,0.3));\n border-radius: 10px;\n -webkit-border-radius: 10px;\n -moz-border-radius: 10px;}\n\n\n/*图片的例句*/\n.phosen{color:#4e4d4d;\n font-size:18px;\n padding-top:5px;}\n.nightMode .phosen {color:#eaf47f;}\n.senen2 {color:red;}\n.nightMode .senen2 {color:yellow;}\n.sencn2 {color:red;}\n.nightMode .sencn2 {color:yellow;}\n\n/*例句发音播放*/\n.ssound1{ padding-top:5px;}\n\n\n/*分类图片*/\n.photo2 {\n border-radius:13px;\n background-color: #fffdff;\n position: relative;\n padding:5px;\n margin: 10px 0;\n box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.4),0 0px 0px 1px rgba(0, 0, 0, 0.02);}\n.nightMode .photo2{background-color: #1c1c1e;}\n.nopd{padding: 5px 5px;}\n.nightMode .nopd{color:#fafafa;\n background-color:#1c1c1e;}\n.nopd img{\n -webkit-filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.3));\n filter:drop-shadow(1px 1px 1px rgba(0,0,0,0.3));\n border-radius: 10px;\n -webkit-border-radius: 10px;\n -moz-border-radius: 10px;}\nspan.nopline{font-weight:bold;}\nspan.nop1{color:#b22222;}\n.nightMode .nop1{color:pink;}\n\n\n/*播放器图标样式*/\n.replay-button svg {\n  width: 25px;\n  height: 25px;}\n.replay-button svg circle {\n  fill:#231F20;\n  stroke:#ffffff;}   /*外圆*/\n.nightMode .replay-button svg circle {\n  fill:#dce0df;\n  stroke:#000000;} \n.replay-button svg path {\n  stroke:#91C462;\n  fill: #91C462;}   /*内三角*/\n.nightMode .replay-button svg path {\n  stroke:#4e4d4d;\n  fill: #4e4d4d;}  \n\n.highlight {font-weight:bold;color:#b22222;}\n.nightMode .highlight{color:#ccffff;}\n\n\n\n\n/*词典部分*/\n.dictionary{\n border-radius:13px;\n background-color: #f8f8fa;\n position: relative;\n padding:10px 10px;\n margin: 10px 0;\n text-align:left;\n box-shadow: 0 1px 1px 0px rgba(0, 0, 0, 0.4),0 0px 0px 1px rgba(0, 0, 0, 0.02);}\n.nightMode .dictionary{background-color:#1c1c1e;}\n li{}\n.cbs49{height:1px;border:none;border-top:1px ridge #41555d;}\n\n\n/*词典更多细节调整*/\n\n.en_example {\n    color: #000099;\n    font-weight: normal;\n    font-family: Helvetica;}\n.nightMode .en_example{color:#ffffd9;}\n.en_example:before{content:\"   ‣  \";} \n.cn_example {\n   /* display:none;*/\n    color: #cc0033;\n    font-weight: normal;\n    margin-left: 5px;}\n.nightMode .cn_example{color:#75e1bd;}\n .en_def:before{content:\"   ▪  \";} \n .en_def {font-weight:bold;}\n .cn_def {/* display: none;*/}\nspan.pron {display:none;}\n.headword {display: none;}\n.runon .headword {\n    color: #08d;\n    font-size: 1.5em;\n    font-weight: 700;}\n#cb44 .pos{color: #b22222;\n    font-weight: bold;\n    padding-right: 5px;\n    text-transform: uppercase;}\n.nightMode #cb44 .pos{color:yellow;\n\tbackground-color:#000000;}\n.pos-header {}\n.irreg-infls .inf {\n    font-weight: 700;}\n.entry-body__el {\n    clear: both;}\n.phrase-block {\n    margin-top: 5px;\n    margin-bottom: 5px;}\n.def-block {\n    margin-top: 5px;\n    margin-bottom: 5px;}\n.extraexamps {display: none;}\n.extraexamps .more_example_title {\n    margin-bottom: 2px;\n    margin-top: 0;\n    font-weight: 700;\n    background: #505050;\n    display: inline-block;\n    color: white;\n    text-transform: uppercase;\n    padding: 2px 5px 2px 5px;\n    border-radius: 3px;\n    font-size: 0.90em;}\n.extraexamps .en_example {margin: 5px 0 5px 15px;}\n.phrase-title {\n    display: inline-block;\n    margin: 5px 0 5px;\n    font-size: 1.1em;\n    font-weight: 700;\n    /*color: #234b9a;*/}\n.phrase-body .def-head {\n    padding-top: 2px;\n    margin: 0 0 5px;}\n.phrase-body .def-body {\n    margin: 0 0 10px;}\n.item {\n    display: block;\n    padding-left: 15px;}\n.def-body {\n    display: block;\n    color: darkgrey;}\nspan.b{color:#b22222;}\n.nightMode .b{color:#71ffff;}\nspan.gcs{font-weight: bold;}\n.nightMode .gcs{color:#d88bea;}\na.uk {display:none;}\na.us {display:none;}\n.uk>.region {    \n    color: #a52a2a;\n    font-size: 1em;\n    font-weight: 700;}\n.us>.region {    \n    color: #045Fb4;\n    font-size: 1em;\n    font-weight: 700;}\n.sense-block h3 {\n    margin: 0 0 5px 0;\n    color: #08d;\n    font-size: 13px;\n    border-bottom: 1px dotted;\n    text-transform: uppercase;\n    font-weight: 700;\n    display: block;}\n.sense-block .hw {display: none;}\n.sense-block .pos {display: none;}\n.sense-block .phrase {\n    font-weight: 700;\n    font-size: 1.1em;\n    /*background: rgba(0, 136, 221, .1);*/\n    padding: 1px 3px;\n    border-radius: 4px;}\n.gram {\n    color: darkgreen;\n    font-size: 0.95em;\n    font-weight: 700;\n    display: inline;}\n.nightMode .gram{color:#d88bea;}\n.pos-header .gram {\n    color: darkgreen;\n padding-right: 4px;}\n.nightMode .pos-header .gram{color:#d88bea;}\n @media screen and (max-width:449px) {\n.pos-body .cols__col {margin-top: 10px;}}\n.def-head {\n    margin: 5px 0px 0px 5px;\n    display: block;}\n.def-head .cn_def:before {\n    content: \" \"}\n.cols__col {\n    margin-bottom: 10px;}\n.idioms h3 {\n    margin-bottom: 2px;\n    margin-top: 0;\n    font-weight: 700;\n    background: rgb(80, 80, 80);\n    display: inline-block;\n    color: white;\n    text-transform: uppercase;\n    padding: 2px 5px 2px 5px;\n    border-radius: 3px;\n    font-size: 0.90em;}\n.phrasal_verbs h3 {\n    margin-bottom: 2px;\n    margin-top: 0;\n    font-weight: 700;\n    background: rgb(80, 80, 80);\n    display: inline-block;\n    color: white;\n    text-transform: uppercase;\n    padding: 2px 5px 2px 5px;\n    border-radius: 3px;\n    font-size: 0.90em;}\n.xref h3 {\n    margin-bottom: 2px;\n    margin-top: 0;\n    font-weight: 700;\n    background: rgb(80, 80, 80);\n    display: inline-block;\n    color: white;\n    text-transform: uppercase;\n    padding: 2px 5px 2px 5px;\n    border-radius: 3px;\n    font-size: 0.90em;}\n.see_also {display:none;}\n.us .pron {color: #08d;}\n.us .pron .ipa{\n    display: inline-block;\n    padding: 0 2px 0 1px;\n    color: #08d;}\n.uk .pron {color: #a52a2a;}\n.uk .pron .ipa {\n    display: inline-block;\n    padding: 0 2px 0 1px;\n    color: #a52a2a;}\n.b {font-weight: bold;\n    color: #282828;}\n.def-head .trans:before {\n    content: \" \";}\n.cefr {\n    padding: 1px 4px 1px 4px;\n    color: #fff;\n    font-weight: 700;\n    font-size: .8em;\n    text-align: center;\n    background-color: #08d;\n    border-radius: 8px;}\n.example {\n    margin: 5px 0 5px 15px;\n font-family:georgia;}\n.usage {\n    display: inline;\n    text-transform: uppercase;\n    font-size: 0.95em;\n    font-weight: 500;}\n.x-num {\n    display: inline;\n    font-size: 0.95em;\n    font-weight: 500;}\n.x-h {color: #08d;}\n.lab {\n    border: 1px solid #08d;\n    border-radius: 3px;\n    padding: 0 3px 0 3px;\n    background-color: AliceBlue;\n    text-transform: uppercase;\n    font-size: 0.75em;\n    color: #08d;\n    vertical-align: 1px;}\n.my_phrase .headword {\n    display: block;}\n.my_phrase a {color: #08d;}\n.var .v {\n    color: #08d;\n    font-weight: bold;}\n.anc-info-head {\n    color: #08d;}\n.ipa .sp {\n    font-size: 75%;\n    position: relative;\n    bottom: .5em;}\n#box-table-a {text-align: center;}\n#box-table-a th {\n    font-size: 1.2em;\n    font-weight: bold;\n    padding: 4px;\n    background: #08d;\n    color: white;}\n#box-table-a td {\n    padding: 4px;\n    background: #e8edff;\n    color: #08d;\n    text-align: left;\n    border-top: 1px solid transparent;}\n#box-table-a tr:hover td {\n    background: #08d;\n    color: white;}\n\n\n\n\n"
+  },
+  "source": {
+    "api": "https://file.ankichinas.cn/server/api/card/detail?cardId=62d65fa0acdacScy",
+    "fetchedAt": "2026-11-23T13:56:48.281Z",
+    "note": "公开接口仅返回 20 张预览卡；完整词库需导入自己合法持有的 .apkg 牌组。"
+  }
+}

@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#28bea0">
+  <title>RAZ 词库 · AA–Z2</title>
+  <link rel="stylesheet" href="assets/css/app.css">
+</head>
+<body data-theme="light">
+  <div class="app">
+    <header id="topbar" class="topbar"></header>
+    <main id="view" class="view"></main>
+
+    <nav id="tabbar" class="tabbar" aria-label="主导航">
+      <a href="#/" data-tab="home">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 10.5 12 4l8 6.5V20a1 1 0 0 1-1 1h-5v-6H10v6H5a1 1 0 0 1-1-1z"/></svg>
+        <span>词库</span>
+      </a>
+      <a href="#/study" data-tab="study">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 4h11a3 3 0 0 1 3 3v13H8a3 3 0 0 1-3-3z"/><path d="M5 17a3 3 0 0 1 3-3h11" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>
+        <span>学习</span>
+      </a>
+      <a href="#/browse" data-tab="browse">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m15.5 15.5 4 4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+        <span>浏览</span>
+      </a>
+      <a href="#/stats" data-tab="stats">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20V10M12 20V5M19 20v-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+        <span>统计</span>
+      </a>
+    </nav>
+  </div>
+
+  <div id="sheet" class="sheet" role="dialog" aria-modal="true"></div>
+  <div id="toast" class="toast" role="status"></div>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/card-render.js"></script>
+  <script src="assets/js/srs.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

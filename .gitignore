@@ -1,0 +1,11 @@
+# 导入的个人牌组数据与媒体（内容版权归原作者，勿提交）
+data/words.full.json
+data/deck.imported.json
+data/media/
+
+# 临时/导出文件
+*.apkg
+*.apkg.tmp
+data/.import-*/
+
+data/sources/
