@@ -89,7 +89,7 @@ node tools/build-data.mjs
 
 - 做法：剔除功能词/停用词和无中文释义的词，按 ECDICT 词频（`frq`/`bnc`）排序，再按真实牌组的各级卡片数量（AA 430 … Z2 220）依次装入；20 张公开预览卡保留在 AA。
 - **级别划分是近似，不是官方 RAZ 分级**：RAZ 按绘本难度分级，词频只能粗略对应。要精确内容仍需导入自己购买的 `.apkg`。
-- 音标取自 ECDICT `phonetic`；释义取前 4 行中文并保留词性色标；无例句、图片、音频，发音按钮自动回退到浏览器 TTS。
+- 音标取自 ECDICT `phonetic`；释义取前 4 行中文并保留词性色标；无例句、图片；单词发音优先从有道词典取真人录音，取不到时用系统 TTS。
 - 音标是 ECDICT 的旧式 DJ 记法，脚本已把 `ә`→`ə`、`.`→次重音、`:`→`ː`，但与预览卡的现代 IPA 仍可能有细微差异。
 - 想换用别的词表：直接编辑 `data/words.approx.json`（结构同 `words.seed.json`），或把自己的 CSV 转成同一结构后再执行 `build-data.mjs`。
 - 优先级：`words.full.json` > `words.approx.json` > `words.seed.json`。
@@ -133,6 +133,7 @@ window.RAZ_DATA = {
 ## 备注与排错
 
 - **发音/图片缺失**：公开预览卡不含媒体文件，应用用占位图代替；导入完整牌组后会自动使用 `data/media/` 中的真实资源。
+- **发音**：单词优先请求有道词典真人发音（`dict.youdao.com`），例句优先百度合成音，两者都失败时回退浏览器 `speechSynthesis`。若系统只装了中文语音，回退音会偏生硬，建议在系统里安装英语语音包，或保持联网使用。
 - **`.anki21b` 报错**：新版 Anki 默认导出 zstd 压缩格式，请按上面第 1 步改用旧版格式重新导出。
 - **端口占用**：`node tools/serve.mjs --port 8124`。
 - **学习进度重置**：设置页「重置学习进度」，或在浏览器控制台执行 `localStorage.removeItem('raz.srs.v1')`。

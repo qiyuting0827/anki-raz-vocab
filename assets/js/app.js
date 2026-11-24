@@ -39,24 +39,69 @@
     clearTimeout(toast._t);
     toast._t = setTimeout(() => toastEl.classList.remove('show'), 1800);
   };
+  // Prefer a natural-sounding en-US voice when we must fall back to on-device TTS.
+  let bestVoice = null;
+  const pickVoice = () => {
+    if (!('speechSynthesis' in window)) return;
+    const en = speechSynthesis.getVoices().filter((v) => /^en([-_]|$)/i.test(v.lang));
+    bestVoice =
+      en.find((v) => /natural|neural|online/i.test(v.name)) ||
+      en.find((v) => /google us english|samantha|aria|jenny|libby|sonia|guy|davis/i.test(v.name)) ||
+      en.find((v) => /^en[-_]US$/i.test(v.lang)) ||
+      en[0] ||
+      null;
+  };
+  if ('speechSynthesis' in window) {
+    pickVoice();
+    speechSynthesis.onvoiceschanged = pickVoice;
+  }
   const speak = (text) => {
     if (!text || !('speechSynthesis' in window)) return;
     const u = new SpeechSynthesisUtterance(text);
     u.lang = 'en-US';
-    u.rate = 0.92;
+    u.rate = 1;
+    if (bestVoice) u.voice = bestVoice;
     try {
       speechSynthesis.cancel();
       speechSynthesis.speak(u);
     } catch {}
   };
+  // Online pronunciation: real dictionary recordings for words, neural TTS for sentences.
+  const remoteVoiceUrl = (text) => {
+    const t = String(text || '').trim();
+    if (!t) return '';
+    const short = t.split(/\s+/).length <= 3 && t.length <= 24;
+    return short
+      ? 'https://dict.youdao.com/dictvoice?type=2&audio=' + encodeURIComponent(t)
+      : 'https://fanyi.baidu.com/gettts?lan=en&spd=3&source=web&text=' + encodeURIComponent(t);
+  };
+  let currentAudio = null;
   const playAudio = (file, fallbackText) => {
-    if (file) {
-      const a = new Audio('data/media/' + encodeURIComponent(file));
-      a.onerror = () => speak(fallbackText);
-      a.play().catch(() => speak(fallbackText));
-      return;
+    const text = String(fallbackText || '').trim();
+    const isFull = window.RAZ_DATA && window.RAZ_DATA.meta && window.RAZ_DATA.meta.source === 'full';
+    const sources = [];
+    if (file && isFull) sources.push('data/media/' + encodeURIComponent(file));
+    const remote = remoteVoiceUrl(text);
+    if (remote) sources.push(remote);
+    if (currentAudio) {
+      try {
+        currentAudio.pause();
+      } catch {}
     }
-    speak(fallbackText);
+    const tryNext = (i) => {
+      if (i >= sources.length) return speak(text);
+      const a = new Audio(sources[i]);
+      currentAudio = a;
+      let failed = false;
+      const fail = () => {
+        if (failed) return;
+        failed = true;
+        tryNext(i + 1);
+      };
+      a.onerror = fail;
+      a.play().catch(fail);
+    };
+    tryNext(0);
   };
   const progressPct = (a, b) => (b ? Math.min(100, Math.round((a / b) * 100)) : 0);
   const plain = (html) =>
