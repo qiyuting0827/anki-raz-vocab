@@ -1,0 +1,8 @@
+{
+  "voice": "en-US-AriaNeural",
+  "rate": "-5%",
+  "files": 6479,
+  "failed": [],
+  "generatedAt": "2026-11-24T14:52:43Z",
+  "source": "data\\words.approx.json"
+}

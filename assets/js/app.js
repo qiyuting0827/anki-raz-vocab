@@ -76,10 +76,11 @@
       : 'https://fanyi.baidu.com/gettts?lan=en&spd=3&source=web&text=' + encodeURIComponent(t);
   };
   let currentAudio = null;
-  const playAudio = (file, fallbackText) => {
+  const playAudio = (file, fallbackText, localFile) => {
     const text = String(fallbackText || '').trim();
     const isFull = window.RAZ_DATA && window.RAZ_DATA.meta && window.RAZ_DATA.meta.source === 'full';
     const sources = [];
+    if (localFile) sources.push(localFile);
     if (file && isFull) sources.push('data/media/' + encodeURIComponent(file));
     const remote = remoteVoiceUrl(text);
     if (remote) sources.push(remote);
@@ -581,7 +582,7 @@
     const audio = e.target.closest('[data-audio], [data-tts]');
     if (audio && audio.classList.contains('audio-btn')) {
       e.preventDefault();
-      playAudio(audio.dataset.audio, audio.dataset.tts);
+      playAudio(audio.dataset.audio, audio.dataset.tts, audio.dataset.local);
       return;
     }
     const el = e.target.closest('[data-act]');
